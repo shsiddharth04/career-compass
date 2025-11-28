@@ -1,0 +1,5 @@
+{
+  "name": "CareerCompass",
+  "description": "A career planning application powered by Gemini AI to help users explore paths, generate plans, and find recommended courses.",
+  "requestFramePermissions": []
+}
